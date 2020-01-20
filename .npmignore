@@ -1,0 +1,8 @@
+src/
+public/
+config/
+devops/
+.*
+yarn.lock
+Jenkinsfile*
+README.md
